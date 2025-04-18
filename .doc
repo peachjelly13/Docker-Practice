@@ -1,0 +1,11 @@
+ docker -ps a
+
+ # lists all the processes docker created for us
+
+docker run -it node 
+
+# this will start the terminal the node terminal, this is the interactive shell
+
+docker run node
+
+# this runs the node image 
